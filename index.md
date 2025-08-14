@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: author_profile
 author_profile: true
 ---
 
