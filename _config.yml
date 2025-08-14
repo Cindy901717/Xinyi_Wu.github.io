@@ -20,9 +20,9 @@ repository               : "Cindy901717/Xinyi_Wu.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
+avatar           : "/images/profile.jpg"
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
   name             : "Xinyi Wu"
   pronouns         : "she/her"  
   bio              : "Computer Science undergraduate passionate about machine learning, algorithms, and creating data-driven solutions."
