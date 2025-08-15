@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ---
-The full CV is available [here](https://sherrylixuecheng.github.io/files/Xinyi WU(CV)_final.pdf)
+The full CV is available [here](https://cindy901717.github.io/files/Xinyi WU(CV)_final.pdf)
 (updated in June, 2025)
 
 Education
